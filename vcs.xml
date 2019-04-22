@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/LavanyaKavuri/cheese-mvc-persistent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SumitPandey11/cheese-mvc-persistent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\kothu\Java_assignments" />
+    <option name="cloneParentDir" value="C:\Users\kothu\lc101" />
   </component>
 </application>
